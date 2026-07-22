@@ -14,4 +14,4 @@ async def on_message(message):
     if message.content == '!hello':
         await message.channel.send('Hello!')
 
-client.run(MTUyODk0MjI3NTc3MjY3ODE2NQ.GuudPy.N8Ho1d211-F_fOtY6khUdm6sITZKCmrGkNL-II)
+client.run()
